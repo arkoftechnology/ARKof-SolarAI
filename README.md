@@ -16,7 +16,7 @@ We aim to optimize PQD compositions for maximum efficiency (>20%) and stability 
 - Contribute or collaborate: Open an issue or pull request!
 
 ## License
-[MIT License](#) (Add later via GitHub’s license template.)
+[MIT License](#) (LICENSE)
 
 ---
 © 2025 ARKof Technology
