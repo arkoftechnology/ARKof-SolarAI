@@ -9,6 +9,7 @@ We aim to optimize PQD compositions for maximum efficiency (>20%) and stability 
 - **Current Stage**: Early prototype development.
 - **Tools**: Python, TensorFlow, Pandas.
 - **Milestone**: Predicting PQD efficiency with 85% accuracy (target Q2 2025).
+- **Collaboration**: Actively discussing data partnership with Prof. Bo Weng (IUE, CAS) on CsPbBr3 PQDs to refine our AI model.
 
 ## Get Involved
 - Explore our website: [arkoftechnology.com](https://arkoftechnology.com)
@@ -16,7 +17,7 @@ We aim to optimize PQD compositions for maximum efficiency (>20%) and stability 
 - Contribute or collaborate: Open an issue or pull request!
 
 ## License
-[MIT License](#) (LICENSE)
+[MIT License](LICENSE)
 
 ---
 © 2025 ARKof Technology
